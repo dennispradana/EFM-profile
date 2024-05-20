@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Roboto&display=swap');
+
+
+
+
+
+.contact{
+    background: linear-gradient(180deg, #D2E9FF 0%, rgba(251, 253, 255, 0.13) 100%);
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.contact h1{
+    font-family: 'PT Sans', sans-serif;
+    color: #585757;
+    font-weight: bold;
+}
+.contact h3{
+    font-family: 'PT Sans', sans-serif;
+    color: #FF5D23;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.contact .info {
+    padding: 30px;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    margin-bottom: 20px;
+  }
+.contact .info i {
+    font-size: 20px;
+    color: #47b2e4;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #e7f5fb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }
+
+ 
+
+  .contact .info h4 {
+    padding: 0 0 0 60px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #585757;
+  }
+
+  .contact .info p {
+    padding: 0 0 10px 60px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #6e6d6d;
+  }
+
+  .formulir{
+    padding: 30px;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+  }
+
+  .formulir .form-group{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #585757;
+    margin-bottom: 15px;
+  }
